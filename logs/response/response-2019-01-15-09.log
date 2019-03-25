@@ -1,0 +1,163 @@
+[2019-01-15 09:26:12.798] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/cvn/tixian?sign=1
+request client ip:  ::1
+request body: 
+{"amount":50,"coinType":"CVNT","userId":"1","to":"0xB7F79A87D5124098d9582adf4009444a8611b76F","t":15464944930000,"cvn_log_id":"122"}
+response time: 226
+response status: 200
+response body: 
+{"status":1}
+*************** response log end ***************
+
+[2019-01-15 09:29:33.625] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /test
+request client ip:  ::1
+request query:  {}
+response time: 1500
+response status: 200
+response body: 
+{"p":"10000000000"}
+*************** response log end ***************
+
+[2019-01-15 09:31:19.654] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/cvn/tixian?sign=1
+request client ip:  ::1
+request body: 
+{"amount":50,"coinType":"CVNT","userId":"1","to":"0xB7F79A87D5124098d9582adf4009444a8611b76F","t":15464944930000,"cvn_log_id":"122"}
+response time: 137
+response status: 200
+response body: 
+{"status":1}
+*************** response log end ***************
+
+[2019-01-15 09:31:26.381] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /test
+request client ip:  ::1
+request query:  {}
+response time: 1417
+response status: 200
+response body: 
+{"p":"10000000000"}
+*************** response log end ***************
+
+[2019-01-15 09:34:10.086] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /test
+request client ip:  ::1
+request query:  {}
+response time: 1393
+response status: 200
+response body: 
+{"p":"3000000000"}
+*************** response log end ***************
+
+[2019-01-15 09:35:14.129] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /test
+request client ip:  ::1
+request query:  {}
+response time: 1398
+response status: 200
+response body: 
+{"p":"9000000000"}
+*************** response log end ***************
+
+[2019-01-15 09:41:59.108] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /test
+request client ip:  ::1
+request query:  {}
+response time: 1433
+response status: 200
+response body: 
+{"p":"10000000000"}
+*************** response log end ***************
+
+[2019-01-15 09:43:51.399] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/cvn/tixian?sign=1
+request client ip:  ::1
+request body: 
+{"amount":50,"coinType":"CVNT","userId":"1","to":"0xB7F79A87D5124098d9582adf4009444a8611b76F","t":15464944930000,"cvn_log_id":"122"}
+response time: 21
+response status: 200
+response body: 
+{"status":1}
+*************** response log end ***************
+
+[2019-01-15 09:44:24.315] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/cvn/tixian?sign=1
+request client ip:  ::1
+request body: 
+{"amount":50,"coinType":"CVNT","userId":"1","to":"0xB7F79A87D5124098d9582adf4009444a8611b76F","t":15464944930000,"cvn_log_id":"123"}
+response time: 70
+response status: 200
+response body: 
+{"status":1}
+*************** response log end ***************
+
+[2019-01-15 09:44:32.498] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/cvn/tixian?sign=1
+request client ip:  ::1
+request body: 
+{"amount":50,"coinType":"CVNT","userId":"1","to":"0xB7F79A87D5124098d9582adf4009444a8611b76F","t":15464944930000,"cvn_log_id":"124"}
+response time: 60
+response status: 200
+response body: 
+{"status":1}
+*************** response log end ***************
+
+[2019-01-15 09:44:43.381] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/cvn/tixian?sign=1
+request client ip:  ::1
+request body: 
+{"amount":50,"coinType":"CVNT","userId":"1","to":"0xB7F79A87D5124098d9582adf4009444a8611b76F","t":15464944930000,"cvn_log_id":"125"}
+response time: 53
+response status: 200
+response body: 
+{"status":1}
+*************** response log end ***************
+
+[2019-01-15 09:44:49.734] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/cvn/tixian?sign=1
+request client ip:  ::1
+request body: 
+{"amount":50,"coinType":"CVNT","userId":"1","to":"0xB7F79A87D5124098d9582adf4009444a8611b76F","t":15464944930000,"cvn_log_id":"126"}
+response time: 67
+response status: 200
+response body: 
+{"status":1}
+*************** response log end ***************
+
+[2019-01-15 09:44:59.454] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /test
+request client ip:  ::1
+request query:  {}
+response time: 1433
+response status: 200
+response body: 
+{"p":"4224761905"}
+*************** response log end ***************
+

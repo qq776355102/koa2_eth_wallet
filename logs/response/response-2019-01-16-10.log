@@ -1,0 +1,36 @@
+[2019-01-16 10:18:42.416] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/cvn/getTransactionId?txid=2094200
+request client ip:  ::1
+request query:  {"txid":"2094200"}
+response time: 1304
+response status: 200
+response body: 
+{"message":"{}","status":0}
+*************** response log end ***************
+
+[2019-01-16 10:19:01.871] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/cvn/getTransactionId?txid=2094200
+request client ip:  ::1
+request query:  {"txid":"2094200"}
+response time: 1166
+response status: 200
+response body: 
+{"message":"{}","status":0}
+*************** response log end ***************
+
+[2019-01-16 10:22:34.600] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/cvn/getTransactionId?txid=2094200
+request client ip:  ::1
+request query:  {"txid":"2094200"}
+response time: 28878
+response status: 200
+response body: 
+{"receiptStatus":2,"status":1,"txhash":"","time":""}
+*************** response log end ***************
+

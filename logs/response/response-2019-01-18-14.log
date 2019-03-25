@@ -1,0 +1,48 @@
+[2019-01-18 14:07:55.993] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/cvn/cvnPrice
+request client ip:  ::1
+request query:  {}
+response time: 555
+response status: 200
+response body: 
+{"status":1,"unit":"USDT"}
+*************** response log end ***************
+
+[2019-01-18 14:08:04.759] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/cvn/cvnPrice
+request client ip:  ::1
+request query:  {}
+response time: 494
+response status: 200
+response body: 
+{"status":1,"unit":"USDT"}
+*************** response log end ***************
+
+[2019-01-18 14:08:35.344] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/cvn/cvnPrice
+request client ip:  ::1
+request query:  {}
+response time: 989
+response status: 200
+response body: 
+{"status":1,"unit":"USDT","cvntPrice":0.0167415631624,"percent_change_1h":2.38945}
+*************** response log end ***************
+
+[2019-01-18 14:08:51.116] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/cvn/cvnPrice
+request client ip:  ::1
+request query:  {}
+response time: 644
+response status: 200
+response body: 
+{"status":1,"unit":"USDT","cvntPrice":0.0167415631624,"percent_change_1h":2.38945}
+*************** response log end ***************
+
