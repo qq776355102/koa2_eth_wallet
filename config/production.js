@@ -19,10 +19,10 @@ var config = {
     },
 
     //私钥
-    private_key: "c9e61d9cde31968fe881b0f6f9f6eabfed69a56f17f82da5d50d42016aaaf7a6",
+    private_key: "",
 
     //私钥对应的地址
-    from_address: "0xeD4249236aa4ba1fD52f0643F0998324E73D719b",
+    from_address: "",
 
     //cvn提现配置
     cvn_tixian: {
@@ -37,6 +37,6 @@ var config = {
         start_time: 1546272000000
     },
     //推送交易状态url
-    push_txstate_url:'http://a.allappapi.com/index.php?g=api/partner&m=index&a=cvn_status_callback'
+    push_txstate_url:''
 };
 module.exports = config;
